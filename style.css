@@ -1,0 +1,6 @@
+h1{text-align: center;color: white;background: black;height: auto;width: 500px;padding: 20px}
+body{margin-bottom: 50px; margin-right: 100px;margin-left: 100px;margin-top: 100px;}
+form{text-align:left; padding: 10%;text-align: center;}
+input {background-color: white; height:30px;width: 50%}
+button{width: 60px; height: 30px; background-color:#05f2e6}
+button:hover{background-color: pink}
